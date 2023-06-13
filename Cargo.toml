@@ -213,7 +213,7 @@ anemo-cli = { git = "https://github.com/mystenlabs/anemo.git", rev = "77f225832e
 anemo-tower = { git = "https://github.com/mystenlabs/anemo.git", rev = "77f225832e361d068318073a6e06ec0310a16891"}
 
 # Use the same workspace-hack across crates.
-workspace-hack = { path = "crates/workspace-hack" }
+# workspace-hack = { path = "crates/workspace-hack" }
 
 mysten-common = { path = "crates/mysten-common" }
 mysten-network = { path = "crates/mysten-network" }
